@@ -1,1 +1,2 @@
 print('zzhh')
+print("zhnaghui")
