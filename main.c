@@ -1,2 +1,6 @@
 #include <stdio.h>
-12121
+int main(void)
+{
+    printf("zzhh");
+    return 0;
+}
