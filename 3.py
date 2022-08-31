@@ -1,3 +1,3 @@
 print('zzhh')
 print("zhnaghui")
-print
+print("zmmzm")
