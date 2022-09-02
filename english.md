@@ -6,8 +6,8 @@
 
 | 单词 | 释义 |
 | ---- | ---- |
-| *accessory*| 附件，零件 |
-|  *activate*| 刺激，使活动 |
+|*accessory*| 附件，零件 |
+|*activate*| 刺激，使活动 |
 |*accommodate*|容纳；调节|
 
 ### 短语
@@ -24,8 +24,8 @@
 
 | 单词 | 释义 |
 | ---- | ---- |
-| *adhere*| 黏附，追随 |
-|  *adjacent*| 毗邻的，邻近的 |
+|*adhere*| 黏附，追随 |
+|*adjacent*| 毗邻的，邻近的 |
 |*adverse*|负面的，不利的|
 |*affiliate*|使隶属 |
 |*advocate*|拥护，支持|
@@ -77,4 +77,4 @@
 |*dull*|迟钝的|
 |*tolerate*|忍受，默许|
 |*torment*|折磨|
-|*champion*|
+|*champion*|冠军|
