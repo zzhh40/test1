@@ -78,3 +78,4 @@
 |*tolerate*|忍受，默许|
 |*torment*|折磨|
 |*champion*|冠军|
+|*
